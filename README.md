@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**isJerryNa1368/isJerryNa1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> # Hi, I'm Jerry 👋
+>
+> ​	My interests lie in artificial intelligence, mathematics, and quantitative research,  
+> with a current focus on machine learning, deep learning, and reinforcement learning.
+>
+> ​	我的兴趣方向主要包括人工智能、数学与量化研究，  当前重点关注机器学习、深度学习与强化学习。
+>
+> ## Find Me
+>
+> - GitHub: [@isJerryNa1368](https://github.com/isJerryNa1368)
+> - Email: isjerryna1368@gmail.com
+> - WeChat Official Account / 公众号: 因子研习柿
+>
+> Keep learning, keep building.  
