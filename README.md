@@ -10,6 +10,15 @@
 - 🤖 AI for Quantitative Research
 - 📚 Mathematics and Modeling
 
+## Project Progress
+
+| Project                    | Status      | Description                                                  |
+| :------------------------- | :---------- | :----------------------------------------------------------- |
+| quant_core                 | In Progress | End-to-end quantitative research toolkit covering data, factor, signal, backtest, evaluation, and visualization workflows. |
+| ashare-short-horizon-alpha | In Progress | Research project for predicting short-horizon A-share returns and identifying high-upside opportunities. |
+| ricequant-local-db         | In Progress | Local data infrastructure project for storing, updating, and maintaining RiceQuant-based research datasets. |
+| leetcode                   | Ongoing     | Personal algorithm practice repository with code, notes, and regular updates. |
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
